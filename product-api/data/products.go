@@ -37,7 +37,6 @@ func GetProducts() Products {
 func AddProduct(p *Product) {
 	//productList = append(productList, p)
 }
-func 
 
 var productList = []*Product{
 	&Product{
